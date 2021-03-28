@@ -8,7 +8,7 @@ Como rodar aplicação spring boot com Docker / Kubernetes!
 
 **Docker e Make (Optional)**
 
-**Java 14**
+**Java 15**
 
 ### Dicas de instalação:
 
